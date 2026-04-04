@@ -2,8 +2,12 @@
   "version": "4.0.0",
   "repositories": [
     {
-      "name": "origin",
-      "url": "git@github.com:GLEBB2005/test_git_script.git"
+      "name": "github",
+      "url": "git@github.com:GLEBB2005/2026-1--study--simulation-modeling.git"
+    },
+    {
+      "name": "gitverse",
+      "url": "git@gitverse.ru:glebqa/2026-1--study--simulation-modeling.git"
     }
   ],
   "git_flow": {
