@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://gitverse.ru:2222/glebqa/2026-1--study--simulation-modeling/compare/v4.0.0...v5.0.0) (2026-04-18)
+
+
+### Features
+
+* **lab05:** done ([76e6ffc](https://gitverse.ru:2222/glebqa/2026-1--study--simulation-modeling/commit/76e6ffc2e0427ce6414c416330cac128060be0de))
+
 ## [4.0.0](https://gitverse.ru:2222/glebqa/2026-1--study--simulation-modeling/compare/v3.0.0...v4.0.0) (2026-04-04)
 
 
